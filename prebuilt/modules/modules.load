@@ -181,3 +181,6 @@ tkv_recovery.ko
 sd_tray.ko
 mtk-pwm.ko
 mtk_irtx_pwm.ko
+adaptive-ts.ko
+focaltech_ft3683g.ko
+gt9916_common.ko
